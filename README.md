@@ -6,4 +6,4 @@
 - 📧Email：3025613752@qq.com
 
 ## ⚡About My Github Repositories
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gfdgd-xi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gfdgd-xi)](https://github.com/gfdgd-xi)
