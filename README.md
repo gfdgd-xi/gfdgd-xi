@@ -6,7 +6,9 @@
 - Github:https://github.com/gfdgd-xi
 
 ## GXDE OS
-GXDE OS 是我目前最得意的项目，项目地址：
+@GXDE-OS 是我目前正在维护的项目，项目地址：  
+https://github.com/GXDE-OS  
+https://gitee.com/GXDE-OS  
 
 <a href='https://github.com/GXDE-OS'><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/GXDE-OS?style=flat&logo=github"></a>
 <a href='https://github.com/orgs/GXDE-OS/followers'><img alt="GitHub followers" src="https://img.shields.io/github/followers/GXDE-OS?style=flat&logo=github"></a>
